@@ -1,0 +1,22 @@
+{
+  "name": "poc-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  },
+  "dependencies": {
+    "apollo-server": "^2.5.0",
+    "express": "^4.17.0",
+    "graphql": "^14.3.0",
+    "graphql-tools": "^4.0.4",
+    "lodash": "^4.17.11",
+    "node-fetch": "^2.6.0"
+  }
+}
